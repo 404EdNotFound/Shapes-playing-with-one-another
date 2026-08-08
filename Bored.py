@@ -13,7 +13,7 @@ objectList = []
 velocityList = []
 colourList = []
 
-# Generated to list a random colours
+# Generated to list a random colours (Generated with AI)
 RANDOM_COLOURS = ["red", "green", "blue", "yellow", "purple", "orange", "pink", "cyan", "magenta", "lime", "teal", "maroon", "navy", "olive", "brown", "white", "grey", "silver", "gold"
 ]
 
