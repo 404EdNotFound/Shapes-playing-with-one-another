@@ -12,7 +12,8 @@ This is a project writen in Python under Pygame Module since this was made out o
 * Please also ensure that you have Pygame installed (after installing Python, and prefably to its latest version)
 
 # Screenshots
-(will be added)
+A Video used to demonstrate shapes playing with one another
+<img width="1000" height="788" alt="ShapesCollidingDemo" src="https://github.com/user-attachments/assets/f60709d0-e3ba-487d-9305-c7d6ad000b44" />
 
 ## Remixing Ethically: A Note from the Author
 This code is licensed under the MIT License to ensure compatibility with GitHub’s systems.
