@@ -12,7 +12,7 @@ This is a project writen in Python under Pygame Module since this was made out o
 * Please also ensure that you have Pygame installed (after installing Python, and prefably to its latest version)
 
 # Screenshots
-A Video used to demonstrate shapes playing with one another
+A Video used to demonstrate shapes playing with one another:
 https://github.com/user-attachments/assets/801fcfc6-0197-47f2-8b61-60bd5225293f
 
 ## Remixing Ethically: A Note from the Author
